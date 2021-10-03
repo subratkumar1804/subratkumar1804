@@ -50,9 +50,9 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
   </p>
  
   
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=subratkumar1804&count_private=true&theme=tokyonight&showicons=true)]()
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=subratkumar1804&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&langs_count=5&theme=tokyonight)]()
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&langs_count=5&theme=tokyonight)]()
 
   
   <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/02638903376fb9d95c47eb84d9615c2fc2ca06f65f863fd9ebb2c4f5f5c2ccbe/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536f68616d2d32343131267374796c653d666c617426636f6c6f723d653036633735266c6162656c3d76697369746f7273"><img src="https://camo.githubusercontent.com/02638903376fb9d95c47eb84d9615c2fc2ca06f65f863fd9ebb2c4f5f5c2ccbe/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536f68616d2d32343131267374796c653d666c617426636f6c6f723d653036633735266c6162656c3d76697369746f7273" data-canonical-src="https://komarev.com/ghpvc/?username=subratkumar1804&amp;style=flat&amp;color=e06c75&amp;label= profile views" style="max-width: 100%;"></a></p>
