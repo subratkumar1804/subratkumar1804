@@ -1,4 +1,6 @@
 <h1><a id="user-content-subrat-kumar" class="anchor" aria-hidden="true" href="#subrat-kumar"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>SUBRAT KUMAR</h1>
+<p><img src="https://komarev.com/ghpvc/?username=subratkumar1804&style=flat&color=e06c75&label=Profile Views"/></p>
+
 <h2><a id="user-content--𝐇𝐞𝐥𝐥𝐨-𝚌𝚘𝚍𝚎𝚛𝚜-" class="anchor" aria-hidden="true" href="#-𝐇𝐞𝐥𝐥𝐨-𝚌𝚘𝚍𝚎𝚛𝚜-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> 𝐇𝐞𝐥𝐥𝐨 &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width: 100%;"></a></h2>
 <p>Hi, My name is SUBRAT KUMAR. I am a 3rd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 19 years old, dedicated undergraduate student aiming to apply knowledge of programming languages. Having an interest in the field of Web Development, Machine Learning,Data Structures etc.
 Eager to bring an excellent work ethic and a strong commitment to quality performance. Passionate about providing the best facilities to users on online web pages. Eager to learn new skills and advance knowledge with hands on experience.</p>
@@ -51,16 +53,8 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
  
 
   
-  <img src='https://github-readme-stats.vercel.app/api?username=subratkumar1804&show_icons=true&theme=dark' width='500'>
-
-
-<p><img src="https://komarev.com/ghpvc/?username=subratkumar1804&style=flat&color=e06c75&label=Profile Views"/></p>
-
-
-
-  
-  <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/02638903376fb9d95c47eb84d9615c2fc2ca06f65f863fd9ebb2c4f5f5c2ccbe/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536f68616d2d32343131267374796c653d666c617426636f6c6f723d653036633735266c6162656c3d76697369746f7273"><img src="https://camo.githubusercontent.com/02638903376fb9d95c47eb84d9615c2fc2ca06f65f863fd9ebb2c4f5f5c2ccbe/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536f68616d2d32343131267374796c653d666c617426636f6c6f723d653036633735266c6162656c3d76697369746f7273" data-canonical-src="https://komarev.com/ghpvc/?username=subratkumar1804&amp;style=flat&amp;color=e06c75&amp;label= profile views" style="max-width: 100%;"></a></p>
-  
+  <img src='https://github-readme-stats.vercel.app/api?username=subratkumar1804&show_icons=true&theme=tokyonight' width='500'>
+  <p><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&langs_count=5&theme=tokyonight'></p>
   
   <img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;">
   
