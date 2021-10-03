@@ -49,9 +49,13 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </p>
  
-  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=subratkumar1804&count_private=true&theme=tokyonight&showicons=true)]()
 
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&langs_count=5&theme=tokyonight)]()
+  
+  <img src='https://github-readme-stats.vercel.app/api?username=subratkumar1804&show_icons=true&theme=dark' width='500'>
+
+
+<p><img src="https://komarev.com/ghpvc/?username=subratkumar1804&style=flat&color=e06c75&label=Profile Views"/></p>
+
 
 
   
