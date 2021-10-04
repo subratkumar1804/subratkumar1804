@@ -54,7 +54,7 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
 
   
   <img src='https://github-readme-stats.vercel.app/api?username=subratkumar1804&show_icons=true&theme=tokyonight' width='500'>
-  <p> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&langs_count=5&theme=tokyonight'></p>
+  <p><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&langs_count=5&theme=tokyonight'></p>
   
   <img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;">
   
