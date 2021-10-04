@@ -52,14 +52,10 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
   </p>
  
   <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=subratkumar1804&show_icons=true&theme=vision-friendly-dark&background=0d1117" height="165">
-  </a>
   <h3>
   </h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&layout=compact&theme=vision-friendly-dark&background=0d1117"  height="165">
-  </a>
   <br>
 </p>
 
