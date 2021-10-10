@@ -52,8 +52,8 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
   </p>
   
    ![Subrat's github stats](https://github-readme-stats.vercel.app/api?username=subratkumar1804&show_icons=true&theme=tokyonight&count_private=true)
-  <h7>
-  </h7>
+  <h5>
+  </h5>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&langs_count=10&theme=tokyonight&layout=compact&hide=html" alt="subratkumar1804"/>
   <br>
   
