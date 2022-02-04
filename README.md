@@ -57,12 +57,12 @@ Hi, My name is <strong>SUBRAT KUMAR</strong>. I am a 19 years old learner, an <s
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </p>
   
-   ![Subrat's github stats](https://github-readme-stats.vercel.app/api?username=subratkumar1804&show_icons=true&theme=monokai&count_private=true)
+   ![Subrat's github stats](https://github-readme-stats.vercel.app/api?username=subratkumar1804&show_icons=true&theme=gruvbox&count_private=true)
   <h5>
   </h5>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&langs_count=10&theme=monokai&layout=compact&hide=html" alt="subratkumar1804"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratkumar1804&langs_count=10&theme=gruvbox&layout=compact&hide=html" alt="subratkumar1804"/>
   
-<img length="400" src="https://github-readme-streak-stats.herokuapp.com/?user=subratkumar1804&theme=monokai" alt="subratkumar1804" /> 
+<img length="400" src="https://github-readme-streak-stats.herokuapp.com/?user=subratkumar1804&theme=gruvbox" alt="subratkumar1804" /> 
   
 
 
