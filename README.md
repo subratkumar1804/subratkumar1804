@@ -55,6 +55,7 @@ Hi, My name is <strong>SUBRAT KUMAR</strong>. I am a 19 years old learner, an <s
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   </p>
   
    ![Subrat's github stats](https://github-readme-stats.vercel.app/api?username=subratkumar1804&show_icons=true&theme=gruvbox&count_private=true)
